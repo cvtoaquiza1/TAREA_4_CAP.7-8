@@ -16,12 +16,25 @@ Docente:  ING. Darwin Alulema
 
 OBJETIVO GENERAL:
 
+Entender profundamente las leyes, formulas y teoremas que se presenten en los temas: circuitos serie-paralelo y teorema de circuitos y conversiones. Aplicar en el análisis de los circuitos mixtos los conocimientos adquiridos en los capítulos anteriores como: ley de Ohm, L.C.K y L.V.K y las formulas de potencia y Resistencia total.
 
 OBJETIVOS ESPECIFICOS:
 
+•	Analizar y realizar las relaciones serie-paralelo en los circuitos mixtos (serie-paralelo).
 
+•	Analizar los temas: divisores de voltaje con carga, redes en escalera y puente de Wheatstone para un mejor dominio a la hora de resolver los ejercicios.
 
+•	Analizar y describir las características de una fuente de voltaje DC y corriente, además realizar conversiones de fuente.
 
+•	Aplicar el teorema de superposición para el análisis de circuitos.
+
+•	Aplicar el teorema de Thevenin y de Norton para simplificar circuitos complejos.
+
+•	Realizar conversiones D a Y y Y a D
+
+•	Localizar fallas en circuitos serie-paralelo.
+
+•	Realizar los ejercicios propuestos para una poner en práctica lo aprendido y para una mejor comprensión de estos temas.
 
 
 2. MARCO TEORICO
@@ -428,7 +441,21 @@ SECCIÓN 8–8 Conversiones delta a Y (D a Y) y Y a D
 
 Link del video:
 
+https://youtu.be/A-rcZ7jGDe4
+
 5. CONCLUSIONES:
+
+•	Se pudo comprender con éxito el análisis de circuitos serie- paralelo y el teorema de circuitos y conversiones.
+
+•	Pude aprender a encontrar la RT y la corriente en las resistencias de circuitos serie-paralelo.
+
+•	Aprendí a analizar circuitos serie-paralelo, y también a aplicar el teorema de superposición al análisis de circuitos.
+
+•	La ley de Ohm, L.C.K y L.V.K fue de gran ayuda para resolver los ejercicios propuestos.
+
+•	Las teoría de Thevenin y Norton fueron de gran ayuda para simplificar circuitos complejos, y así facilitar los cálculos.
+
+•	Mediante la realización de los ejercicios se pudo comprender con claridad los temas del capítulo 7 y 8.
 
 
 6. BIBLIOGRAFÍA
