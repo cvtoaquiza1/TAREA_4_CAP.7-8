@@ -251,6 +251,178 @@ Como los resultados analíticos coinciden con las lecturas mostradas en el diagr
 
 ![image](https://user-images.githubusercontent.com/117781491/208582920-d2713252-0fe5-4521-8485-b77b6d5bae6e.png)
 
+CAPITULO 8:
+
+SECCIÓN 8–3 Conversiones de fuente
+
+2. Convierta las fuentes de voltaje prácticas de la figura 8-67 en fuentes de corriente equivalentes.
+
+![image](https://user-images.githubusercontent.com/117781491/208739162-f8d7d2c1-2896-4bdd-9214-278679b9594f.png)
+
+![image](https://user-images.githubusercontent.com/117781491/208739921-a16d1cd1-74af-432d-bcb0-2d091b26dfc2.png)
+
+4. Trace los circuitos equivalentes de fuentes de voltaje y corriente para la batería tipo D del problema 3.
+
+![image](https://user-images.githubusercontent.com/117781491/208740362-2f13a83a-235a-4757-82d8-f69de8262a05.png)
+
+![image](https://user-images.githubusercontent.com/117781491/208740671-577356b6-be7f-47df-b4c8-b32ad956bee2.png)
+
+6. Convierta las fuentes de corriente prácticas de la figura 8-68 en fuentes de voltaje equivalentes.
+
+![image](https://user-images.githubusercontent.com/117781491/208740823-f9dd1235-0534-4c11-9c41-15eb0e8e4e3d.png)
+
+a)
+
+![image](https://user-images.githubusercontent.com/117781491/208741643-5b2349a8-50d3-4600-806a-f18a4da83f42.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/117781491/208741699-8df8c0c6-e56e-4216-98b0-01489f0fa518.png)
+
+SECCIÓN 8–4 El teorema de superposición
+
+8. Use el teorema de superposición para determinar la corriente a través, y el voltaje entre, los extremos
+de la rama R2 de la figura 8-69.
+
+![image](https://user-images.githubusercontent.com/117781491/208741925-85fc95b7-5423-4706-91f3-901ac8b63b2d.png)
+
+![image](https://user-images.githubusercontent.com/117781491/208741972-574e16a5-bafd-4922-a24e-504d0be21774.png)
+
+10. Con el teorema de superposición, determine la corriente de carga en cada uno de los circuitos mostra-
+dos en la figura 8-71.
+
+![image](https://user-images.githubusercontent.com/117781491/208742079-31c084a4-aec3-419e-9c81-3ddea86cee27.png)
+
+
+![image](https://user-images.githubusercontent.com/117781491/208742110-3d591293-fe19-4d4a-9120-5420f6c723c2.png)
+
+12. Repita el problema 11 si R2 es de 10 kÆ.
+
+![image](https://user-images.githubusercontent.com/117781491/208742182-94815adf-0dbc-47d6-854a-d24890c67436.png)
+
+
+![image](https://user-images.githubusercontent.com/117781491/208742236-b71824f5-d9ee-4a17-bd09-90b788fcbf47.png)
+
+14. Los interruptores mostrados en la figura 8-74 se cierran en secuencia, SW1 primero. Determine la co-
+rriente a través de R4 después del cierre de cada interruptor.
+
+![image](https://user-images.githubusercontent.com/117781491/208742314-d25f15cd-a137-49a6-8266-83b6026266fa.png)
+
+Corriente en la resistencia  R4:
+
+![image](https://user-images.githubusercontent.com/117781491/208742421-e91f091b-ed99-408f-b1bc-a76530adef20.png)
+
+SECCIÓN 8–5 Teorema de Thevenin
+
+16. Para cada uno de los circuitos de la figura 8-76, determine el equivalente de Thevenin como se ve des-
+de las terminales A y B.
+
+![image](https://user-images.githubusercontent.com/117781491/208743370-9c148806-7795-48ea-af37-41286f3f2a50.png)
+
+![image](https://user-images.githubusercontent.com/117781491/208743515-49a3a0d3-9712-4e84-aaeb-a240814d221b.png)
+
+*18. Con el teorema de Thevenin, determine el voltaje entre los extremos de R4 en la figura 8-78.
+
+![image](https://user-images.githubusercontent.com/117781491/208743611-4b55d31d-e591-4c22-978a-ff258325af21.png)
+
+![image](https://user-images.githubusercontent.com/117781491/208743652-ed1d728c-cb17-4952-a265-2740b9e69870.png)
+
+20. Determine la corriente que se dirige al punto A cuando R8 es de 1.0 kÆ, 5 kÆ, y 10 kÆ en la figura 8-80.
+
+![image](https://user-images.githubusercontent.com/117781491/208743727-cebd3843-81dc-4b2d-9f4e-76bf6bcab307.png)
+
+![image](https://user-images.githubusercontent.com/117781491/208743836-191e6d99-300b-4c76-98af-829ba49772da.png)
+
+![image](https://user-images.githubusercontent.com/117781491/208744025-6b06685d-3b5b-4e93-a20a-879f648c13fe.png)
+
+![image](https://user-images.githubusercontent.com/117781491/208744060-458e72e6-4386-46d7-bdb8-d06dcc1f453f.png)
+
+![image](https://user-images.githubusercontent.com/117781491/208744109-d31b4ae3-8ade-4657-8dd0-71982c8c2a05.png)
+
+![image](https://user-images.githubusercontent.com/117781491/208744149-9c2d55c5-a682-469b-884b-015f65ee6a0d.png)
+
+22. Determine el equivalente de Thevenin del circuito mostrado en la figura 8-82 visto desde las termina-
+les A y B.
+
+![image](https://user-images.githubusercontent.com/117781491/208744286-69e7fee5-0c5d-40a8-9e43-63d2c8324945.png)
+
+![image](https://user-images.githubusercontent.com/117781491/208744319-67336ba5-c149-4e4c-bca1-ddc7458b2d07.png)
+
+SECCIÓN 8–6 Teorema de Norton
+
+24. Con el teorema de Norton, determine la corriente que circula a través del resistor de carga RL en la fi-
+gura 8-77.
+
+![image](https://user-images.githubusercontent.com/117781491/208744427-19dc61b9-140f-4687-9a50-1854739996dd.png)
+
+![image](https://user-images.githubusercontent.com/117781491/208744493-62cc7d1c-e85b-4659-b39a-a3f687f94089.png)
+
+26. Con el teorema de Norton, determine la corriente que circula a través de R1 en la figura 8-80 cuando
+R8 5 8 kÆ.
+
+![image](https://user-images.githubusercontent.com/117781491/208744604-2a1bda35-3ccd-43e3-8e7d-d136e2b5805e.png)
+
+![image](https://user-images.githubusercontent.com/117781491/208744844-cfc0b278-4135-47d2-9779-008b200599b8.png)
+
+
+![image](https://user-images.githubusercontent.com/117781491/208744663-e17b2cd7-e3ea-4254-bab9-24279e641c1c.png)
+
+28. En la figura 8-83, reduzca el circuito entre las terminales A y B a su equivalente Norton.
+
+![image](https://user-images.githubusercontent.com/117781491/208744966-628518e5-f25b-4ca0-8b42-0c777f06fd30.png)
+
+![image](https://user-images.githubusercontent.com/117781491/208745043-e18a8c3e-ad78-4065-a328-09d45552207b.png)
+
+
+SECCIÓN 8–7 Teorema de transferencia de potencia máxima
+
+30. En cada circuito mostrado en la figura 8-85, se tiene que transferir potencia máxima a la carga RL. De-
+termine el valor apropiado de RL en cada caso.
+
+![image](https://user-images.githubusercontent.com/117781491/208745170-912715a8-45d7-442f-bbfd-138fb041ec96.png)
+
+![image](https://user-images.githubusercontent.com/117781491/208745345-2bdf3d16-464e-4336-b469-31ea5d4ff0cb.png)
+
+![image](https://user-images.githubusercontent.com/117781491/208745365-0d674f0e-892d-4812-adab-1690fff21c30.png)
+
+![image](https://user-images.githubusercontent.com/117781491/208745401-7e995853-eecf-4fdf-81c9-414799e6467f.png)
+
+![image](https://user-images.githubusercontent.com/117781491/208745428-179f8d14-277a-463e-ab56-d2f0698ec343.png)
+
+
+32. ¿Cuánta potencia se suministra a la carga cuando RL es un 10% más alta que su valor para transferen-
+cia de potencia máxima en el circuito de la figura 8-86?
+
+![image](https://user-images.githubusercontent.com/117781491/208745504-7ea5107c-3177-491b-ace3-453a325049fb.png)
+
+![image](https://user-images.githubusercontent.com/117781491/208745549-09db2340-0390-4d22-bb32-dd5b7231f147.png)
+
+![image](https://user-images.githubusercontent.com/117781491/208745577-f6d29acd-7a54-431d-8458-bf2bfc9f15e3.png)
+
+SECCIÓN 8–8 Conversiones delta a Y (D a Y) y Y a D
+
+34. En la figura 8-88, convierta cada red delta en una red Y.
+
+![image](https://user-images.githubusercontent.com/117781491/208745726-0eb189e4-8056-4643-a67f-d61cb56b3702.png)
+
+![image](https://user-images.githubusercontent.com/117781491/208745920-237f3208-6364-401f-aa3d-281fc2296ff8.png)
+
+![image](https://user-images.githubusercontent.com/117781491/208745970-883db25b-cb6f-42ec-9906-655a7182f1af.png)
+
+![image](https://user-images.githubusercontent.com/117781491/208746046-7d465352-f791-4954-886a-a03db8605d81.png)
+
+![image](https://user-images.githubusercontent.com/117781491/208746109-e1ba88cb-8e97-4bce-bbaa-72bb957051c0.png)
+
+* 36. Determine todas las corrientes que circulan en el circuito de la figura 8-90.
+
+
+![image](https://user-images.githubusercontent.com/117781491/208746261-730755d8-eee1-4810-bb70-38bff362d8c4.png)
+
+![image](https://user-images.githubusercontent.com/117781491/208746896-aa422baa-c078-4991-bbfd-16ff4d5d41c9.png)
+
+
+
+
 
 4. VIDEO
 
